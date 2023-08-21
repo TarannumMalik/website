@@ -1,2 +1,2 @@
 # website
-website for lapto[
+website for laptop
